@@ -4,8 +4,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMUSIC&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXMUSIC/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+[![GIF](https://github.com/NARUTEAM/NARUMUSIC/blob/main/NARUTEAM.gif)](https://github.com/DAXXTEAM)
+   [![𝐌𝐑.ɴᴀʀᴜ](https://github-stats-alpha.vercel.app/api?username=NARU "MRNARU")](https://github-stats-alpha.vercel.app/api?username=NARU "MRNARU")
 
 
 
@@ -18,7 +18,9 @@ GO TO [RELOAD.PY](https://github.com/DAXXTEAM/DAXXMUSIC/blob/Master/DAXXMUSIC/pl
 </p>
 
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>![IMG_20240301_152646_524](https://github.com/DAXXTEAM/DAXXMUSIC/assets/151159508/80d04c33-d51e-428b-83c8-e762917d8989)
+![IMG_20240301_232719_073](https://github.com/DAXXTEAM/DAXXMUSIC/assets/151159508/e798de80-800e-4fed-a985-1d3bba958bd1)
+
 </p>
 
 <h3 align="center">
@@ -32,7 +34,7 @@ GO TO [RELOAD.PY](https://github.com/DAXXTEAM/DAXXMUSIC/blob/Master/DAXXMUSIC/pl
 [![Contributors](https://contrib.rocks/image?repo=DAXXTEAM/DAXXMUSIC)](https://github.com/DAXXTEAM/DAXXMUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/DAXXSUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/shayrigalibki"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thebotolbaba@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/DAXXSUPPORT"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
